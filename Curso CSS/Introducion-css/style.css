@@ -1,7 +1,12 @@
-.cuadrado{
-    height: 7cm;
-    width: 7cm;
-    background-color: steelblue;
-    color: white;
-    border: 2px solid black;
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    color: red;
+    font-size: 40px;
+}
+
+li{
+    color: slateblue;
 }
