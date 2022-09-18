@@ -27,3 +27,17 @@ body{
     text-decoration: none;
     margin-left: 20px;
 }
+
+.nav_cuadro{
+    width: 500px;
+    height: 128px;
+    border: 2px solid #000;
+
+    background-image: url(https://cdn.custom-cursor.com/cursors/pokemon_pikachu_908.png);
+
+    resize: both;
+    overflow: auto;
+
+    /* background-repeat: space; */
+    background-repeat: round;
+}
